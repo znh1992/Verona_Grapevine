@@ -1,0 +1,30 @@
+References and Links
+
+BLAST1⁠: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
+CD-HIT2⁠: http://cd-hit.org/
+CPC3⁠: http://cpc.cbi.pku.edu.cn/ 
+HMMER4⁠: http://hmmer.org/ 
+Infernal5⁠: http://eddylab.org/infernal/ 
+Pfam6⁠: http://pfam.xfam.org/ 
+Rfam7⁠:  http://rfam.xfam.org/ 
+RSEM8⁠: http://deweylab.github.io/RSEM/ 
+Trinity9⁠: https://github.com/trinityrnaseq/trinityrnaseq/wiki 
+Trinotate: https://trinotate.github.io/ 
+Vienna RNA Package10⁠: https://www.tbi.univie.ac.at/RNA/ 
+Uniprot-Sprot: http://www.uniprot.org/downloads 
+Uniprot-Uniref: http://www.uniprot.org/downloads 
+
+
+1.	Camacho, C. et al. BLAST plus : architecture and applications. BMC Bioinformatics 10, - (2009).
+2.	Li, W. & Godzik, A. Cd-hit: A fast program for clustering and comparing large sets of protein or nucleotide sequences. Bioinformatics 22, 1658–1659 (2006).
+3.	Kong, L. et al. CPC: Assess the protein-coding potential of transcripts using sequence features and support vector machine. Nucleic Acids Res. 35, 345–349 (2007).
+4.	Eddy, S. R. A new generation of homology search tools based on probabilistic inference. Genome Inform. 23, 205–211 (2009).
+5.	Nawrocki, E. P. & Eddy, S. R. Infernal 1.1: 100-fold faster RNA homology searches. Bioinformatics 29, 2933–2935 (2013).
+6.	Bateman, A. The Pfam protein families database. Nucleic Acids Res. 32, 138D–141 (2004).
+7.	Nawrocki, E. P. et al. Rfam 12.0: Updates to the RNA families database. Nucleic Acids Res. 43, D130–D137 (2015).
+8.	Li, B. & Dewey, C. N. RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome. BMC Bioinformatics 12, 323 (2011).
+9.	Grabherr, M. G. et al. Full-length transcriptome assembly from RNA-Seq data without a reference genome. Nat. Biotechnol. 29, 644–52 (2011).
+10.	Lorenz, R. et al. {ViennaRNA} Package 2.0. Algorithms Mol. Biol. 6, 26 (2011).
+
+
+ 
