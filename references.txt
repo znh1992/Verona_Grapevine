@@ -8,6 +8,7 @@ Infernal5⁠: http://eddylab.org/infernal/
 Pfam6⁠: http://pfam.xfam.org/ 
 Rfam7⁠:  http://rfam.xfam.org/ 
 RSEM8⁠: http://deweylab.github.io/RSEM/ 
+SQLite: https://www.sqlite.org/ 
 Trinity9⁠: https://github.com/trinityrnaseq/trinityrnaseq/wiki 
 Trinotate: https://trinotate.github.io/ 
 Vienna RNA Package10⁠: https://www.tbi.univie.ac.at/RNA/ 
